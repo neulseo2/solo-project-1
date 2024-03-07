@@ -7,5 +7,5 @@
  * ************************************
  */
 
-export const SUBMIT_MESSAGE = 'SUBMIT_MESSAGE';
+export const ADD_MESSAGE = 'ADD_MESSAGE';
 export const DELETE_MESSAGE = 'DELETE_MESSAGE';

@@ -1,3 +1,12 @@
+/**
+ * ************************************
+ *
+ * @module  index.js
+ * @description the entry point for application
+ *
+ * ************************************
+ */
+
 import React from 'react';
 // import { applyMiddleware } from 'redux';
 import { createRoot } from 'react-dom/client';
